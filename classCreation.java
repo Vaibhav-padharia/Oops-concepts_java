@@ -1,4 +1,4 @@
-public class 01_classCreation {
+public class classCreation {
     public static void main(String[] args) {
         System.out.println("This is how a class is created ");
     }
